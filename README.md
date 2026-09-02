@@ -4,7 +4,7 @@ Downloader de vídeos do Twitter/X em formato MP4 compatível com WhatsApp.
 
 ## Funcionalidades
 
-- Interface gráfica moderna (tema escuro)
+- Interface gráfica moderna
 - Download de vídeos do Twitter/X
 - Formato MP4 compatível com WhatsApp
 - Seleção de pasta de destino
@@ -15,7 +15,7 @@ Downloader de vídeos do Twitter/X em formato MP4 compatível com WhatsApp.
 1. Execute `Baixador-X.vbs` (recomendado) ou `Baixador-x.bat`
 2. Cole o link do vídeo do Twitter/X
 3. Clique em "BAIXAR VÍDEO"
-4. O vídeo será salvo na pasta selecionado
+4. O vídeo será salvo na pasta selecionada
 
 ## Requisitos
 
