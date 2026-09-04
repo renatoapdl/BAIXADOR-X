@@ -29,7 +29,7 @@ O **BAIXADOR-X** é uma ferramenta desktop desenvolvida em Python que permite ba
 
 ## 📸 Demonstração
 
-<img src="assets/interface.png" width="600" alt="Interface do BAIXADOR-X"/>
+<img width="600" height="610" alt="Interface" src="https://github.com/user-attachments/assets/741dac60-54ea-482a-886c-ad56e2979e24" />
 
 ---
 
